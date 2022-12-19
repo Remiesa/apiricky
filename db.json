@@ -7,6 +7,12 @@
             "tanggal":"20 November 2022",
               "description": "test1",
             "group":"A",
+            "goal1":"0",
+            "goal2":"2",
+            "yellow1":"4",
+            "yellow2":"2",
+            "red1":"0",
+            "red2":"0",
             "img": "https://myanimelist.cdn-dena.com/images/anime/5/17407.jpg"
   }
 ]
