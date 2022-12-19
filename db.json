@@ -2,10 +2,11 @@
  {
             "negara1": "Qatar",
 
-            "Rating": "Ecuador",
-            "categorie":"Group Match",
-            "studio":"20 November 2022",
+            "negara2": "Ecuador",
+            "babak":"Group Match",
+            "tanggal":"20 November 2022",
               "description": "test1",
+            "grup":"A",
             "img": "https://myanimelist.cdn-dena.com/images/anime/5/17407.jpg"
   }
 ]
